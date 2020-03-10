@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/02 15:38:56.000.144,=C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/02 15:44:47.000.489,C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagle\ULogin.pas=C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/02 15:44:47.000.489,C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagle\ULogin.dfm=C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/03/02 15:45:11.000.260,C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagle\TesteEagleTecnologia.dproj=C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/03/03 18:01:21.000.309,=C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagle\Unit1.pas</Transaction>
+    <Transaction>2020/03/03 18:04:12.000.179,C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagle\Unit1.pas=C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagle\UEnviarEmail.pas</Transaction>
+    <Transaction>2020/03/03 19:11:36.000.274,=C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagle\Unit2.pas</Transaction>
+    <Transaction>2020/03/07 14:17:17.000.352,=C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagleFinal\Unit1.pas</Transaction>
+    <Transaction>2020/03/07 14:20:04.000.817,C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagleFinal\Unit2.dfm=C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagleFinal\UPrincipal.dfm</Transaction>
+    <Transaction>2020/03/07 14:20:04.000.817,C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagleFinal\Unit2.pas=C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagleFinal\UPrincipal.pas</Transaction>
+    <Transaction>2020/03/07 14:22:52.000.113,C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagleFinal\UEnviarEmail.pas=</Transaction>
+    <Transaction>2020/03/07 14:29:06.000.163,=C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagleFinal\Unit1.pas</Transaction>
+    <Transaction>2020/03/07 14:29:20.000.738,C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagleFinal\Unit1.pas=C:\Users\josim\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteEagleFinal\UTesteEagle.pas</Transaction>
+  </Transactions>
+</BorlandProject>
