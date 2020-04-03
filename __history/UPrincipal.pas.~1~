@@ -76,7 +76,7 @@ begin
     novoEmail.usuarioServidor := 'josimartester@gmail.com';
     novoEmail.senhaUsuario    := 'josimartester2100';
 
-    novoEmail.nomeRemetente      := 'Josimar Mail';
+    novoEmail.nomeRemetente      := 'Teste Eagle';
     novoEmail.remetenteEmail     := 'josimartester@gmail.com';
     novoEmail.destinatariosEmail := editPara.Text;
     novoEmail.assuntoEmail       := editAssunto.Text;

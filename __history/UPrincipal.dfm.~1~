@@ -1,5 +1,5 @@
 object FormPrincipal: TFormPrincipal
-  Left = 390
+  Left = 244
   Top = 0
   BorderStyle = bsDialog
   ClientHeight = 701
@@ -11,7 +11,7 @@ object FormPrincipal: TFormPrincipal
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
-  Position = poDesigned
+  Position = poDesktopCenter
   OnClose = FormClose
   PixelsPerInch = 96
   TextHeight = 13
@@ -231,9 +231,9 @@ object FormPrincipal: TFormPrincipal
   object Label1: TLabel
     Left = 248
     Top = 72
-    Width = 174
+    Width = 141
     Height = 36
-    Caption = 'Josimar Mail'
+    Caption = 'Eagle Mail'
     Font.Charset = ANSI_CHARSET
     Font.Color = clWindowText
     Font.Height = -27
@@ -684,7 +684,6 @@ object FormPrincipal: TFormPrincipal
       11117D87A1467413A80BA7230C2D7CE9998E771D675E9ACD46220B6B65416266
       69F2D1EF5372BFC42497887708FA81E811111105F82FFC8A0CB5CEEAFA570000
       000049454E44AE426082}
-    Visible = False
   end
   object editDe: TEdit
     Left = 200
