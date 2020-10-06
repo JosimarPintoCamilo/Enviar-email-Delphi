@@ -1,5 +1,8 @@
-# Teste-Eagle-Tecnologia
+## Teste-Eagle-Tecnologia
 
-Sistema para envio de e-mails, utilizando Delphi 10.3. 
-Usu√°rio padr√£o: admin, senha admin.
-Tem a op√ß√£o de importar uma lista de e-mails separados por ";" ou "," de arquivos no formato txt.
+Este È um teste que fiz na **Eagle Tecnologia** utilizando a linguagem Delphi. E para ir testando algumas coisas que aprendo l· eu vou atualizando esse repositÛrio.
+
+**Usu·rio padr„o:** admin
+**Senha:** admin
+
+Tem a opÁ„oo de importar uma lista de e-mails separados por ";" ou "," de arquivos no formato txt.
